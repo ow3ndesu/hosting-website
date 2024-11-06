@@ -4,6 +4,6 @@ services:
     image: hosting
     build: .
     ports:
-      - "8090:90"
+      - "8090:80"
     volumes:
       - .:/usr/share/nginx/html
