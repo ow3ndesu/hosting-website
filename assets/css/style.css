@@ -1101,6 +1101,10 @@ footer .container .end-footer p {
     color: rgb(183, 180, 187);
 }
 
+.cursor-pointer {
+    cursor: pointer;
+}
+
 /* ------------------------------------------------------------------------------ */
 @media (min-width: 767px) and (max-width: 991px) {
     /* ----------------general--------------- */

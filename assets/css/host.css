@@ -169,6 +169,7 @@ body {
 .card {
   --titleColor: var(--pink);
   --descColor: var(--baseColor);
+  --bs-card-bg: none;
 }
 .card__header {
   display: flex;
